@@ -1,0 +1,6 @@
+cd windows
+cd d:
+
+cd Python\Django\djangogirls
+
+myvenv\Scripts\activate
